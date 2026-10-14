@@ -72814,3 +72814,12 @@
 0.0.0.0 zzhc.vnet.cn
 0.0.0.0 zzkwg.comfortykive.xyz
 0.0.0.0 zzz.onion.pet
+0.0.0.0 www.btd-cmh.tq-tungsten.com
+0.0.0.0 adsqtungstenntdservice-prod-924ce7e1acd77824.elb.us-east-2.amazonaws.com
+0.0.0.0 endpoint.prod.us-east-1.forester.a2z.com
+0.0.0.0 gateway.prod.us-east-1.forester.a2z.com
+0.0.0.0 endpoint.prod.us-west-2.forester.a2z.com
+0.0.0.0 gateway.prod.us-west-2.forester.a2z.com
+0.0.0.0 endpoint.prod.eu-west-1.forester.a2z.com
+0.0.0.0 gateway.prod.eu-west-1.forester.a2z.com
+0.0.0.0 ipv6.unagi-na.amazon.com
