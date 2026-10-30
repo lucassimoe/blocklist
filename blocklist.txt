@@ -72823,3 +72823,7 @@
 0.0.0.0 endpoint.prod.eu-west-1.forester.a2z.com
 0.0.0.0 gateway.prod.eu-west-1.forester.a2z.com
 0.0.0.0 ipv6.unagi-na.amazon.com
+0.0.0.0 global-prod.adsqtungsten.a9.amazon.dev
+0.0.0.0 www.btd-pdx.tq-tungsten.com
+0.0.0.0 origin.amazon-ads-attestation.com
+0.0.0.0 attester.amazon-ads-attestation.com
